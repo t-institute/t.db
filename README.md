@@ -25,6 +25,10 @@ These are more fun and less practical but the purpose again is to raise awarenes
 
 Technically, the BSL is not "open-source" as defined by open-source purists. The main purpose for using this license is to create an accessible data set for consumers and patients. The BSL is used defensively so that billion dollar pharma, EHRs, testing lab companies, etc. do not use this data set for their own commercial purposes. They could open-source their own data sets on testosterone levels, as well as other health data, which could be used for advanced disease diagnosis, detection, and treatment, but instead they keep the data for themselves.
 
+## t.institute
+
+The long-term vision for t.institute is to become the de facto source of information for testosterone. We will start with t.db, the largest open-source database on testosterone. Then, we will publish research on testosterone, addressing questions like those posed in [The Solution](#the-solution), to garner mainstream attention. Finally, with this credibility, we hope to shape public policy, such as regulating water, agriculture, and cosmetic companies to ensure they are testing for endocrine-disrupting chemicals, so we are at least aware of how many toxins we are ingesting through using their products.
+
 ## T Party
 
 This project is owned and maintained by [tparty.org](https://www.tparty.org/), a men's health company. T Party publishes a science and evidence-backed newsletter every Tuesday, and hosts testosterone testing parties, i.e. "T Parties".
